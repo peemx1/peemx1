@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**peemx1/peemx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+class peem():
+    def __init__(self):
+        self.name = "peem"
+        self.age = 14
+        self.languages = [
+            "Python",
+            "Golang",
+            "Javascript"
+        ]
+        self.contacts = {
+            "Discord": "& Peem#6944",
+            "Telegram": "https://t.me/peemx1"
+        }
+```
